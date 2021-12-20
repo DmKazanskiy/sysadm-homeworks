@@ -10,19 +10,19 @@ Author: Дмитрий Казанский
 6.   Ссылки на картинки укажите в **личном кабинете** как решение домашнего задания.
 
 ## netology.tf
-![[Pasted image 20211021204415.png]]  
+!(Скриншот выполненного задания)[/assets/Pasted image 20211021204415.png]  
 
 ## netology.sh
-![[Pasted image 20211021204622.png]]
+!(Скриншот выполненного задания)[/assets/Pasted image 20211021204622.png]
 
 ## netology.md
-![[Pasted image 20211021204653.png]]
+!(Скриншот выполненного задания)[/assets/Pasted image 20211021204653.png]
 
 ## netology.yaml
-![[Pasted image 20211021204712.png]]
+!(Скриншот выполненного задания)[/assets/Pasted image 20211021204712.png]
 
 ## netology.jsonnet
-![[Pasted image 20211021204741.png]]
+!(Скриншот выполненного задания)[/assets/Pasted image 20211021204741.png]
 
 # [Задание №2 - Описание жизненного цикла задачи (разработки нового функционала)](https://github.com/netology-code/sysadm-homeworks/tree/master/01-intro-01#задание-2---описание-жизненного-цикла-задачи-разработки-нового-функционала)
 
