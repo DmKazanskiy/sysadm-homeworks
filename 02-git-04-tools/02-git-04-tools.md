@@ -2,11 +2,11 @@
 
 1. Найдите полный хеш и комментарий коммита, хеш которого начинается на `aefea`.
 `git log aefea -n 1 --format="Полный хэш: %H;%nКомментарий коммита: %s"`
-![[Pasted image 20211121201940.png]]
+![Скриншот выполненного задания](assets/Pasted%20image%2020211121201940.png)
 
 2. Какому тегу соответствует коммит `85024d3`?
 tag `v0.12.23^0`
-![[Pasted image 20211121204046.png]]
+![Скриншот выполненного задания](assets/Pasted%20image%2020211121204046.png)
 
 3. Сколько родителей у коммита `b8d720`? Напишите их хеши.
 у заданного хэша два родителя:
@@ -15,7 +15,7 @@ parent 56cd7859e05c36c06b56d013b55a252d0bb7e158
 parent 9ea88f22fc6269854151c571162c5bcf958bee2b
 
 ```
-![[Pasted image 20211121210946.png]]
+![Скриншот выполненного задания](assets/Pasted%20image%2020211121210946.png)
 
 4. Перечислите хеши и комментарии всех коммитов которые были сделаны между тегами v0.12.23 и v0.12.24.
 ```
@@ -30,13 +30,13 @@ Hash: 4b6d06cc5dcb78af637bbb19c198faff37a066ed; Comments: Update CHANGELOG.md
 Hash: dd01a35078f040ca984cdd349f18d0b67e486c35; Comments: Update CHANGELOG.md
 Hash: 225466bc3e5f35baa5d07197bbc079345b77525e; Comments: Cleanup after v0.12.23 release
 ```
-![[Pasted image 20211121211704.png]]
+![Скриншот выполненного задания](assets/Pasted%20image%2020211121211704.png)
 
 5. Найдите коммит в котором была создана функция `func providerSource`, ее определение в коде выглядит так `func providerSource(...)` (вместо троеточего перечислены аргументы).
 
 `git log -S'func providerSource(' --format='%H'` = 8c928e83589d90a031f811fae52a81be7153e82f
 
-![[Pasted image 20211124205355.png]]
+![Скриншот выполненного задания](assets/Pasted%20image%2020211124205355.png)
 
 6. Найдите все коммиты в которых была изменена функция `globalPluginDirs`.
 
@@ -48,11 +48,11 @@ commit 41ab0aef7a0fe030e84018973a64135b11abcd70
 commit 66ebff90cdfaa6938f26f908c7ebad8d547fea17
 commit 8364383c359a6b738a436d1b7745ccdce178df47
 
-![[Pasted image 20211124210303.png]]
+![Скриншот выполненного задания](assets/Pasted%20image%2020211124210303.png)
 
 7. Кто автор функции `synchronizedWriters`?
 
 `git log -S synchronizedWriters --format='%h, %an, %ad'`
 5ac311e2a, Martin Atkins, Wed May 3 16:25:41 2017 -0700
 
-![[Pasted image 20211124211647.png]]
+![Скриншот выполненного задания](assets/Pasted%20image%2020211124211647.png)
