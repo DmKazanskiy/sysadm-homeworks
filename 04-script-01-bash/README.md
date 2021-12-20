@@ -1,6 +1,6 @@
 # Выполненные задания к занятию "04-script-01-bash"
 
-[**Ответы: 04-script-01-bash**](04-script-01-bash/04-script-01-bash.md) 
+[**Ответы: 04-script-01-bash**](04-script-01-bash.md) 
 
 --- 
 
