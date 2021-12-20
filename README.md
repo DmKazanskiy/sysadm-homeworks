@@ -45,7 +45,7 @@
 
 ## Модуль 4. Скриптовые языки и языки разметки: Python, Bash, YAML, JSON
 
-4.1. [+] [Командная оболочка Bash: практические навыки](https://github.com/netology-code/sysadm-homeworks/tree/master/04-script-01-bash)
+4.1. [+] [Командная оболочка Bash: практические навыки](04-script-01-bash/04-script-01-bash.md)
 
 4.2. [+] [Использование Python для решения типовых DevOps задач](https://github.com/netology-code/sysadm-homeworks/tree/master/04-script-02-py)
 
