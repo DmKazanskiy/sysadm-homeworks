@@ -35,7 +35,7 @@
 
 3.5. [-] [Файловые системы](https://github.com/netology-code/sysadm-homeworks/tree/master/03-sysadmin-05-fs)
 
-3.6. [+] [Компьютерные сети (лекция 1)](03-sysadmin-06-net/master/03-sysadmin-06-net.md)
+3.6. [+] [Компьютерные сети (лекция 1)](03-sysadmin-06-net/03-sysadmin-06-net.md)
 
 3.7. [-] [Компьютерные сети (лекция 2)](https://github.com/netology-code/sysadm-homeworks/tree/master/03-sysadmin-07-net)
 
