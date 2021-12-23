@@ -29,12 +29,13 @@ bash_command = ["cd ~/netology/sysadm-homeworks", "git status"]
 result_os = os.popen(' && '.join(bash_command)).read()
 #is_change = False
 for result in result_os.split('\n'):
-    if (result.find('изменено') != -1 or result.find('modified') != -1):
-        prepare_result = result.replace('\tизменено:   ', '').replace('\tmodified:   ', '')
-        print('',prepare_result)
-#       break
+  if (result.find('изменено') != -1 or result.find('modified') != -1):
+    prepare_result = result.replace('\tизменено:   ', '').replace('\tmodified:   ', '')
+    print('',prepare_result)
+#   break
 ```
 > Закоментил строки `#is_change = False` и `#break`, добавил вывод полного пути к директории
+> [Текст срипта доступен по ссылке](script-04-02-part-2.py)
 
 3. Доработать скрипт выше так, чтобы он мог проверять не только локальный репозиторий в текущей директории, а также умел воспринимать путь к репозиторию, который мы передаём как входной параметр. Мы точно знаем, что начальство коварное и будет проверять работу этого скрипта в директориях, которые не являются локальными репозиториями:
 
@@ -84,6 +85,7 @@ while i < times:
   tm.sleep(wait)
   
 ```
+> [Текст срипта доступен по ссылке](script-04-02-part-4.py)
 
 [На главную](../README.md)
 
