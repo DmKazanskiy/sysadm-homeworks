@@ -59,11 +59,13 @@ HOST: stackoverflow.com
 
 7. Какие DNS сервера отвечают за доменное имя dns.google? Какие A записи? воспользуйтесь утилитой `dig`
 > ![](assets/03sys06net-005.png)
+> 
 > NS-записи:
 > ns2.zdns.google
 > ns4.zdns.google
 > ns1.zdns.google
 > ns3.zdns.google 
+> 
 > A-записи: `8.8.8.8, 8.8.4.4`
 
 8. Проверьте PTR записи для IP адресов из задания 7. Какое доменное имя привязано к IP? воспользуйтесь утилитой `dig`
