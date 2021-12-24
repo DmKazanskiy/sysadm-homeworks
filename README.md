@@ -37,7 +37,7 @@
 
 3.6. [+] [Компьютерные сети (лекция 1)](03-sysadmin-06-net/03-sysadmin-06-net.md)
 
-3.7. [-] [Компьютерные сети (лекция 2)](https://github.com/netology-code/sysadm-homeworks/tree/master/03-sysadmin-07-net)
+3.7. [+] [Компьютерные сети (лекция 2)](03-sysadmin-07-net/03-sysadmin-07-net.md)
 
 3.8. [-] [Компьютерные сети (лекция 3)](https://github.com/netology-code/sysadm-homeworks/tree/master/03-sysadmin-08-net)
 
