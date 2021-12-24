@@ -5,7 +5,7 @@
 > WINDOWS: `ipconfig`
 
 2. Какой протокол используется для распознавания соседа по сетевому интерфейсу? Какой пакет и команды есть в Linux для этого?
-> NDP - Neighbor Discovery Protocol
+> LLDP- Link Layer Discovery Protocol, NDP - Neighbor Discovery Protocol
 > `arp`, `arp-scan`, `nmap` - поиск соседей
 
 3. Какая технология используется для разделения L2 коммутатора на несколько виртуальных сетей? Какой пакет и команды есть в Linux для этого? Приведите пример конфига.
